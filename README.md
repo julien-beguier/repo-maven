@@ -1,6 +1,6 @@
-# repo-maven
+# repo-maven (offline)
 
-Hi,
+Hi,<br>
 This is my maven repository, you can find in here my Java libraries. I made those libraries for myself and I know it already exists elsewhere (probably in a better way) but I wanted to know how to do it myself. 
 
 But anyway I release it publicly in case of someone wants to try something new :)
@@ -17,7 +17,7 @@ In the _**pom.xml**_ add the **following repository**:
 
 ####- **DifferentLanguages _(i18n)_**
 
-DifferentLanguages permit you to use an infinity of languages. Let your swing application (or something else) have custom text... If you want your app to run on a variety of computer around the world, you better want every users understand what's written in the menu, panel, anything.
+DifferentLanguages allows you to use an infinity of languages. Let your swing application (or something else) have custom text... If you want your app to run on a variety of computer around the world, you better want every users understand what's written in the menu, panel, anything.
 
 Add the following **dependency**:
 
